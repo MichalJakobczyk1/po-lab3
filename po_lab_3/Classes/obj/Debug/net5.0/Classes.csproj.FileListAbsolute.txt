@@ -1,0 +1,12 @@
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\bin\Debug\net5.0\Classes.dll
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\bin\Debug\net5.0\Classes.pdb
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.dll
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\Users\michal.jakobczyk\source\repos\po_lab_3\Classes\obj\Debug\net5.0\Classes.pdb

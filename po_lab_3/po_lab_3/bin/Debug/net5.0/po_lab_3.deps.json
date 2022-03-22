@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "po_lab_3/1.0.0": {
+        "dependencies": {
+          "Classes": "1.0.0"
+        },
+        "runtime": {
+          "po_lab_3.dll": {}
+        }
+      },
+      "Classes/1.0.0": {
+        "runtime": {
+          "Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "po_lab_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
